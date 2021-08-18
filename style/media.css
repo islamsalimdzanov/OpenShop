@@ -1,0 +1,583 @@
+@media(max-width: 1277px) {
+  .main__small-ads {
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+  }
+  .main__right-ad1 {
+    margin-top: 30px;
+    width: 630px;
+  }
+  .main__right-ads {
+    margin-left: 0px;
+  }
+  .right__verysmall-ads {
+    flex-direction: column;
+  }
+  .main__right-ad3 {
+    margin-left: 0;
+    margin-top: 30px;
+    
+  }
+  .main__right-ad2 {
+    align-items: center;
+    justify-content: center;
+    display: flex;
+  }
+  .right__ad-img2 {
+    margin-top: 48px;
+    margin-left: 0;
+  }
+  .main__right-ad3 {
+    align-items: center;
+    justify-content: center;
+    display: flex;
+  }
+  .right__ad-img3 {
+    margin-top: 48px;
+    margin-left: 0;
+  }
+  .cell__phones {
+    flex-direction: column;
+  }
+  .main__technic-title {
+    text-align: center;
+    margin-top: 30px;
+  }
+  .cell__computers {
+    flex-direction: column;
+  }
+  .top__sellers {
+    flex-direction: column;
+  }
+  .xbox-gamepad {
+    width: 800px;
+  }
+}
+
+@media(max-width: 1254px) {
+  .ps5-console1 {
+    width: 1000px;
+  }
+}
+
+@media(max-width: 1194px) {
+  .ps5__announce {
+    text-align: center;
+  }
+  .watch-now {
+    margin-left: -5px;    
+  }
+  .ps5-info {
+    margin-left: 0;
+    display: flex;
+    flex-direction: column;
+  }
+  
+  .ps5-title {
+    width: 300px;
+  }
+  
+  .ps5-console1 {
+    margin-top: -250px;
+  }
+  
+  .ps5logo {
+    width: 270px;
+    margin-left: 25px;
+  }
+}
+
+@media(max-width: 1198px) {
+  .big__title {
+    font-size: 30px;
+    width: 150px;
+    margin-left: 10px;
+  }
+  .shop-now-btn {
+    margin-left: -35px;
+  }
+}
+
+@media(max-width: 1000px) {
+  .icon__list {
+    flex-direction: column;
+    margin-top: 20px;
+    align-items: center;
+  }
+  .icon__link1::before {
+    margin-right: 0;
+  }
+  .icon__link2::before {
+    margin-right: 0;
+  }
+  .footer__list {
+    flex-direction: column;
+    align-items: center;
+    margin-top: 0;
+  }
+  .footer__link {
+    margin-right: 0;
+  }
+  .ps5vr-console {
+    width: 800px;
+  }
+  .ps5vr__description {   
+    margin-left: -100px;
+  }
+}
+
+@media(max-width: 988px) {
+  .ps5-console1 {
+    margin-top: -200px;
+    width: 700px;
+  }
+  .watch-now {
+    margin-left: 10px;
+  }
+}
+
+@media(max-width: 993px) {
+  .footer__text {
+    margin-top: 0;
+  }
+  .header__list {
+    flex-direction: column;
+    text-align: center;
+  }
+}
+
+@media(max-width: 1010px) {
+  .big-add1 {
+    flex-direction: column;
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+  }
+  .big-add2 {
+    flex-direction: column;
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+  }
+  .big__ad-title {
+    margin-bottom: 100px;
+    margin-top: -50px;
+  }
+  .big__title {
+    margin-left: 100px;
+  }
+}
+
+
+@media(max-width: 802px) {
+  .header__logo {
+    flex-direction: column;
+    align-items: center;
+  }
+  .header__search-field {
+    width: 250px;
+  }
+  .xbox-gamepad {
+    width: 500px;
+  }
+  .xbox__description {
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+  }
+  
+}
+
+@media(max-width: 712px) {
+  .header__prenav-list {
+    flex-direction: column;
+    align-items: center;
+}
+.header__prenav-link {
+  margin-bottom: 7px;
+}
+}
+
+@media(max-width: 984px) {
+  .footer-logo {
+    margin-left: 260px;
+    margin-bottom: 30px;
+  }
+}
+
+@media(max-width: 750px) {
+  .ps5-info {
+    margin-left: -70px; 
+  }
+  
+}
+
+@media(max-width: 768px) {
+  .header__prenav-list {
+    flex-direction: column;
+    text-align: center;
+    justify-content: center;
+  }
+  .header__prenav-link {
+    margin-bottom: 10px;
+  }
+  .btn-dropdown {
+    margin-left: -20px;
+  }
+  .footer-logo {
+    margin-left: 0;
+  }
+}
+
+@media(max-width: 662px) {
+  .watch-now {
+    margin-left: 120px;
+  }
+  .ps5-console1 {
+    width: 450px;
+    margin-left: 100px;
+    margin-top: -170px;
+  }
+}
+
+@media(max-width: 596px) {
+  .ps5logo {
+    width: 200px;
+    margin-left: 50px;
+  }
+}
+
+@media(max-width: 616px) {
+  .footer__search-field {
+    width: 250px;
+    margin-left: -80px;
+  }
+  .main__right-ad1 {
+    width: 500px;
+  }
+}
+
+@media(max-width: 588px) {
+  .left__ad-description {
+    text-align: center;
+    margin-top: 80px;
+    margin-left: 0;
+  }
+  .main__left-ad {
+    align-items: center;
+    justify-content: center;
+    width: 350px;
+    height: 400px;
+    margin-top: 50px;
+  }
+  .left__ad-img {
+    width: 350px;
+  }
+}
+
+@media(max-width: 560px) {
+  .right__ad-description1 {
+    text-align: center;
+    padding-top: 165px;
+  }
+  .ps5-console1 {
+    margin-top: 0px;
+    margin-left: 20px;
+  }
+  .ps5-title {
+    margin-left: 200px;
+  }
+  .ps5logo {
+    margin-left: 250px;
+  }
+  .watch-now {
+    margin-left: 140px;
+  }
+  .ps5vr-console {
+    width: 450px;
+    margin-bottom: 50px;
+  }
+  .ps5vr__description {
+  }
+}
+
+@media(max-width: 514px) {
+  .footer__search-field {
+    width: 150px;
+  }
+  .footer__form-title {
+    margin-left: -100px;
+  }
+  .xbox-gamepad {
+    width: 300px;
+    margin-top: 30px;
+  }
+  .add-cart {
+    margin-top: 30px;
+  }
+}
+
+@media(max-width: 432px) {
+  .header__search-field {
+    width: 206px;
+  }
+  .main__right-ad2 {
+    flex-direction: column;
+  }
+  .right__ad-img2 {
+    margin-top: -50px;
+  }
+  .main__right-ad3 {
+    flex-direction: column;
+  }
+  .right__ad-img3 {
+    margin-top: -50px;
+  }
+  .ps5-info {
+    margin-left: -150px;
+  }
+  .watch-now {
+    margin-left: 60px;
+  }
+  .xbox-text {
+    width: 300px;
+  }
+}
+
+@media(max-width: 456px) {
+  .right__ad-description2 {
+    text-align: center;
+  }
+  .right__ad-description3 {
+    text-align: center;
+  }
+}
+
+@media(max-width: 524px) {
+  .header__search-btn {
+    width: 150px;
+    font-size: 12px;
+    text-align: center;
+    padding-top: 15px;
+  }
+}
+
+@media(max-width: 490px) {
+  .header__search-div {
+    margin-left: -30px;
+  }
+  .ps5vr__games {
+    font-size: 18px;
+    width: 300px;
+  }
+}
+
+@media(max-width: 416px) {
+  .form-div {
+    display: flex;
+    flex-direction: column;
+  }
+  .footer__search-btn {
+    margin-left: -80px;
+  }
+  .footer__search-field {
+    width: 185px;
+  }
+  .iPhone__title {
+    width: 300px;
+    margin-left: 75px;
+  }
+  .iPhone-1300 {
+    margin-left: 150px;
+  }
+  .iPhone__highlights {
+    margin-left: 80px;
+  }
+  .iPhone-buttons {
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+  }
+  .iPhone-btns-2 {
+    margin-left: 0;
+  }
+}
+
+@media(max-width: 505px) {
+  .main__right-ad1 {
+    background-position: center;
+    width: 400px;
+  }
+  .main__right-ad2 {
+    flex-direction: column;
+  }
+  .main__right-ad3 {
+    flex-direction: column;
+  }
+  .right__ad-img2 {
+    margin-top: -70px;
+  }
+  .right__ad-img3 {
+    margin-top: -60px;
+  }
+}
+
+@media(max-width: 400px) {
+  .main__right-ad1 {
+    background-size: cover;
+    width: 300px;
+  }
+  .ps5vr__games {
+    margin-left: 0;
+    width: 200px;
+  }
+}
+
+@media(max-width: 350px) {
+  .ps5__info {
+    margin-left: 00px;
+  }
+  .watch-now {
+    margin-left: 10px;
+  }
+  .ps5-console1 {
+    width: 300px;
+    margin-left: 80px;
+  }
+  .ps5logo {
+    width: 150px;
+    margin-left: 230px;
+  }
+  .ps5-title {
+    margin-left: 150px;
+    font-size: 20px;
+  }
+  .watch-now {
+    margin-top: -300px;
+  }
+  .header__search-div {
+    flex-direction: column;
+  }
+  .header__search-btn {
+    width: 207px;
+  }
+  .ps5vr-console {
+    width: 250px;
+    margin-bottom: 100px;
+  }
+  .iPhone__info-list {
+    margin-left: 30px;
+  }
+}
+
+@media(max-width: 300px) {
+  .main__right-ad1 {
+    display: none;
+  }
+  .footer__text {
+    margin-left: 100px;
+  }
+  .main__right-ad2 {
+    width: 150px;
+  }
+  .main__right-ad3 {
+    width: 150px;
+  }
+  .xbox-gamepad {
+    width: 150px;
+  }
+  .xbox-text {
+    width: 150px;
+  }
+  .xbox__title {
+    text-align: center;
+  }
+  .iPhone__info-list {
+    font-size: 10px;
+    width: 150px;
+    margin-left: 100px;
+  }
+}
+
+@media(max-width: 285px) {
+  .right__ad-nametag2 {
+    font-size: 15px;
+    width: 100px;
+  }
+  .right__ad-nametag3 {
+    font-size: 15px;
+    width: 100px;
+  }
+  .right__ad-price2 {
+    font-size: 15px;
+  }
+  .right__ad-price3 {
+    font-size: 15px;
+  }
+  .right__ad-img3 {
+    margin-left: -60px;
+  }
+  .iPhone__title {
+    font-size: 20px;
+    width: 150px;
+  }
+  .right__iPhone {
+    width: 150px;
+    margin-left: 125px;
+  }
+  .iPhone-1300 {
+    margin-left: 100px;
+  }
+  .iPhone__info-list {
+    margin-left: 50px;
+  }
+  .ps5vr__games {
+    display: none;
+  }
+}
+
+@media(max-width: 250px) {
+  .left__ad-nametag {
+    font-size: 15px;
+  }
+  .left__ad-price {
+    font-size: 15px;
+  }
+  .technic-title {
+    width: 150px;
+  }
+}
+
+@media(max-width: 1390px) {
+  .ps5vr-info {
+    flex-direction: column;
+    
+  }
+  .main__iPhone-div {
+    flex-direction: column;
+  }
+  .main__iPhone-left {
+    flex-direction: column;
+  }
+  .main__left-iPhoneIMG {
+    flex-direction: row;
+    margin-left: 80px;
+  }
+
+  .ps5vr__description {
+    margin-top: -100px;
+    margin-left: 300px;
+  }
+}
+
+@media(max-width: 905px) {
+  .ps5vr__description {
+    margin-left: -150px;
+  }
+  .ps5vr__games {
+    margin-left: 150px;
+    text-align: center;
+  }
+}

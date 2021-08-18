@@ -1,0 +1,55 @@
+@font-face {
+    font-family: 'NotoSansJP-Bold';
+    src: url(../fonts/Noto_Sans_JP/NotoSansJP-Bold.otf);
+}
+
+@font-face {
+    font-family: 'NotoSansJP-Light';
+    src: url(../fonts/Noto_Sans_JP/NotoSansJP-Light.otf);
+}
+
+@font-face {
+    font-family: 'NotoSansJP-Medium';
+    src: url(../fonts/Noto_Sans_JP/NotoSansJP-Medium.otf);
+}
+
+@font-face {
+    font-family: 'NotoSansJP-Regular';
+    src: url(../fonts/Noto_Sans_JP/NotoSansJP-Regular.otf);
+}
+
+@font-face {
+    font-family: 'Font Awesome';
+    src: url(../FontAwesome/webfonts/fa-light-300.woff2);
+    font-weight: 300;
+}
+
+@font-face {
+    font-family: 'Font Awesome';
+    src: url(../FontAwesome/webfonts/fa-regular-400.woff2);
+    font-weight: 400;
+}
+
+@font-face {
+    font-family: 'Font Awesome';
+    src: url(../FontAwesome/webfonts/fa-brands-400.woff2);
+    font-weight: 400;
+}
+
+@font-face {
+    font-family: 'Font Awesome';
+    src: url(../FontAwesome/webfonts/fa-duotone-900.woff2);
+    font-weight: 900;
+}
+
+@font-face {
+    font-family: 'Font Awesome';
+    src: url(../FontAwesome/webfonts/fa-solid-900.woff2);
+    font-weight: 900;
+}
+
+.fa {
+    display: inline-block;
+    font-family: 'Font Awesome';
+    font-size: normal;
+}
